@@ -24,3 +24,5 @@ tersea coding test
 ## TODO
 
   1. Fix Failing tests Due to Event Loop Error
+
+NB: This is my first experience with FastAPI
